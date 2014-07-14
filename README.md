@@ -12,6 +12,15 @@ Benefits to provide Undo
 1. It is not necessary to ask whether to perform modify/delete. (AF10, AF13)
 2. If everything is undo-able, a user don't need to be anxious about doing something on the app.
 
+Realtime
+---
+![](https://dl.dropboxusercontent.com/u/7817937/_github/list-awesome_ux/realtime-activity.png)
+![](https://dl.dropboxusercontent.com/u/7817937/_github/list-awesome_ux/realtime-content.png)
+
+Gentle instruction
+---
+
+![](https://dl.dropboxusercontent.com/u/7817937/_github/list-awesome_ux/activeanswer.png)
 
 Principles
 ---
